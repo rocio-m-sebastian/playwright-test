@@ -1,0 +1,14 @@
+{
+  "name": "playwright-test",
+  "version": "1.0.0",
+  "description": "playwright test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rocio martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright": "^1.11.0"
+  }
+}
